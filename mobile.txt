@@ -1,3 +1,10 @@
+! Title: Hide YouTube Shorts
+! Description: Hide all traces of YouTube shorts videos on YouTube
+! Version: 1.8.0
+! Last modified: 2024-03-26 16:58
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/boredvillager/ublock-hide-yt-shorts
+! License: https://github.com/boredvillager/ublock-hide-yt-shorts/blob/master/LICENSE.md
 !!! MOBILE !!!
 
 ! Hide all videos in home feed containing the phrase "#shorts"
